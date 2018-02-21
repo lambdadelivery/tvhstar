@@ -46,7 +46,7 @@ let progPreferences = {
 	// M3U:
 	//
 	// Nombre del fichero de salida donde dejaré la lista de canales IPTV de cadenasHOME.js
-	ficheroM3U_HOME: '/home/hts/guia/tvHOME.m3u',
+	ficheroM3U_HOME: '/tmp/tvHOME.m3u',
 	// Nombre del fichero de salida donde dejaré la lista de canales IPTV de cadenasREMOTE.js
 	//ficheroM3U_REMOTE: '/tmp/tvREMOTE.m3u',
 
@@ -79,7 +79,8 @@ let progPreferences = {
 	ficheroJSONTV: '/tmp/guia.movistar-xmltv.json',
 	//
 	// Fichero final:
-	ficheroXMLTV: '/home/hts/guia/guia.xml',
+	ficheroXMLTV: '/home/daniel/Tvheadend/guia.xml',
+
 
 	//
 	// El programa ejecutará una descarga del EPG nada más arrancar y se quedará
