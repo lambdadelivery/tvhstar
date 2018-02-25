@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/hts/tvhstar/
+cd /home/daniel/Tvheadend/Scripts/tvhstar
 npm run build && npm run start
