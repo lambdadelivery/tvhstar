@@ -327,11 +327,11 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.0.84:8208",
 		"movistar_id": "FDFIC",
-		"movistar_nombre": "FactorÃ­a de FicciÃ³n",
+		"movistar_nombre": "Factoría de Ficción",
 		"movistar_numero": "25",
 		"tvh_id": "FDFIC.es",
 		"tvh_m3u": true,
-		"tvh_nombre": "FactorÃ­a de FicciÃ³n",
+		"tvh_nombre": "Factoría de Ficción",
 		"tvh_tag": "SD|HOME"
 	},
 	{
@@ -404,11 +404,11 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.5.113:8208",
 		"movistar_id": "CPACCI",
-		"movistar_nombre": "Movistar AcciÃ³n",
+		"movistar_nombre": "Movistar Acción",
 		"movistar_numero": "33",
 		"tvh_id": "CPACCI.es",
 		"tvh_m3u": true,
-		"tvh_nombre": "Movistar AcciÃ³n HD",
+		"tvh_nombre": "Movistar Acción HD",
 		"tvh_tag": "HD|HOME"
 	},
 	{
@@ -437,11 +437,11 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.3.45:8208",
 		"movistar_id": "DCESP",
-		"movistar_nombre": "Movistar Cine EspaÃ±ol",
+		"movistar_nombre": "Movistar Cine Español",
 		"movistar_numero": "36",
 		"tvh_id": "DCESP.es",
 		"tvh_m3u": true,
-		"tvh_nombre": "Movistar Cine EspaÃ±ol HD",
+		"tvh_nombre": "Movistar Cine Español HD",
 		"tvh_tag": "HD|HOME"
 	},
 	{
@@ -537,12 +537,12 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.6.14:8208",
 		"movistar_id": "CPFUT",
-		"movistar_nombre": "Movistar FÃºtbol",
+		"movistar_nombre": "Movistar Fútbol",
 		"movistar_numero": "45",
 		"tvh_categoria": "Sports",
 		"tvh_id": "CPFUT.es",
 		"tvh_m3u": true,
-		"tvh_nombre": "Movistar FÃºtbol HD",
+		"tvh_nombre": "Movistar Fútbol HD",
 		"tvh_tag": "HD|HOME"
 	},
 	{
@@ -645,12 +645,12 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.3.65:8208",
 		"movistar_id": "BARNA",
-		"movistar_nombre": "BarÃ§a TV",
+		"movistar_nombre": "Barça TV",
 		"movistar_numero": "54",
 		"tvh_categoria": "Sports",
 		"tvh_id": "BARNA.es",
 		"tvh_m3u": false,
-		"tvh_nombre": "BarÃ§a TV",
+		"tvh_nombre": "Barça TV",
 		"tvh_tag": "HD|HOME"
 	},
 	{
@@ -776,12 +776,12 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.0.97:8208",
 		"movistar_id": "FUTREP",
-		"movistar_nombre": "Canal FÃºtbol Replay",
+		"movistar_nombre": "Canal Fútbol Replay",
 		"movistar_numero": "65",
 		"tvh_categoria": "Sports",
 		"tvh_id": "FUTREP.es",
 		"tvh_m3u": true,
-		"tvh_nombre": "Canal FÃºtbol Replay",
+		"tvh_nombre": "Canal Fútbol Replay",
 		"tvh_tag": "SD|HOME"
 	},
 	{
@@ -918,22 +918,22 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.0.57:8208",
 		"movistar_id": "CYM",
-		"movistar_nombre": "Crimen + InvestigaciÃ³n",
+		"movistar_nombre": "Crimen + Investigación",
 		"movistar_numero": "78",
 		"tvh_id": "CYM.es",
 		"tvh_m3u": true,
-		"tvh_nombre": "Crimen & InvestigaciÃ³n",
+		"tvh_nombre": "Crimen & Investigación",
 		"tvh_tag": "SD|HOME"
 	},
 	{
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.0.65:8208",
 		"movistar_id": "CCTV-E",
-		"movistar_nombre": "CGTN EspaÃ±ol",
+		"movistar_nombre": "CGTN Español",
 		"movistar_numero": "79",
 		"tvh_id": "CCTV-E.es",
 		"tvh_m3u": true,
-		"tvh_nombre": "CGTN EspaÃ±ol",
+		"tvh_nombre": "CGTN Español",
 		"tvh_tag": "SD|HOME"
 	},
 	{
@@ -1452,11 +1452,11 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.8.67:8208",
 		"movistar_id": "CUBAV",
-		"movistar_nombre": "CubavisiÃ³n",
+		"movistar_nombre": "Cubavisión",
 		"movistar_numero": "141",
 		"tvh_id": "CUBAV.es",
 		"tvh_m3u": false,
-		"tvh_nombre": "CubavisiÃ³n",
+		"tvh_nombre": "Cubavisión",
 		"tvh_tag": "SD|HOME"
 	},
 	{
@@ -1474,11 +1474,11 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.0.1:8208",
 		"movistar_id": "ANTV",
-		"movistar_nombre": "Canal Sur AndalucÃ­a",
+		"movistar_nombre": "Canal Sur Andalucía",
 		"movistar_numero": "150",
 		"tvh_id": "ANTV.es",
 		"tvh_m3u": false,
-		"tvh_nombre": "Canal Sur AndalucÃ­a",
+		"tvh_nombre": "Canal Sur Andalucía",
 		"tvh_tag": "SD|HOME"
 	},
 	{
@@ -1518,11 +1518,11 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.0.81:8208",
 		"movistar_id": "ARAGON",
-		"movistar_nombre": "AragÃ³n TV Int",
+		"movistar_nombre": "Aragón TV Int",
 		"movistar_numero": "155",
 		"tvh_id": "ARAGON.es",
 		"tvh_m3u": false,
-		"tvh_nombre": "AragÃ³n TV Int",
+		"tvh_nombre": "Aragón TV Int",
 		"tvh_tag": "SD|HOME"
 	}
 
