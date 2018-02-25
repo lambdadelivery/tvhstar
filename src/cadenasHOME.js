@@ -470,7 +470,7 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.5.72:8208",
 		"movistar_id": "SUNDAN",
-		"movistar_nombre": "Sundance TV",
+		"movistar_nombre": "Sundance",
 		"movistar_numero": "39",
 		"tvh_id": "SUNDAN.es",
 		"tvh_m3u": true,
@@ -1280,12 +1280,12 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.7.67:8208",
 		"movistar_id": "RTESP",
-		"movistar_nombre": "RT EspaÃ±ol",
+		"movistar_nombre": "RT Español",
 		"movistar_numero": "119",
 		"tvh_categoria": "News / Current affairs",
 		"tvh_id": "RTESP.es",
 		"tvh_m3u": true,
-		"tvh_nombre": "RT EspaÃ±ol",
+		"tvh_nombre": "RT Español",
 		"tvh_tag": "SD|HOME"
 	},
 	{
