@@ -470,7 +470,7 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.5.72:8208",
 		"movistar_id": "SUNDAN",
-		"movistar_nombre": "Sundance TV",
+		"movistar_nombre": "Sundance",
 		"movistar_numero": "39",
 		"tvh_id": "SUNDAN.es",
 		"tvh_m3u": true,
@@ -681,12 +681,12 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.5.246:8208",
 		"movistar_id": "MVF1",
-		"movistar_nombre": "Movistar FÃ³rmula 1",
+		"movistar_nombre": "Movistar Fórmula 1",
 		"movistar_numero": "57",
 		"tvh_categoria": "Sports",
 		"tvh_id": "MVF1.es",
 		"tvh_m3u": true,
-		"tvh_nombre": "Movistar FÃ³rmula 1 HD",
+		"tvh_nombre": "Movistar Fórmula 1 HD",
 		"tvh_tag": "HD|HOME"
 	},
 	{
@@ -1280,12 +1280,12 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.7.67:8208",
 		"movistar_id": "RTESP",
-		"movistar_nombre": "RT EspaÃ±ol",
+		"movistar_nombre": "RT Español",
 		"movistar_numero": "119",
 		"tvh_categoria": "News / Current affairs",
 		"tvh_id": "RTESP.es",
 		"tvh_m3u": true,
-		"tvh_nombre": "RT EspaÃ±ol",
+		"tvh_nombre": "RT Español",
 		"tvh_tag": "SD|HOME"
 	},
 	{
@@ -1328,12 +1328,12 @@ const cadenasFavoritos = [
 		"movistar_epg": true,
 		"movistar_fuente": "239.0.0.63:8208",
 		"movistar_id": "INTECO",
-		"movistar_nombre": "IntereconomÃ­a TV",
+		"movistar_nombre": "Intereconomía TV",
 		"movistar_numero": "124",
 		"tvh_categoria": "News / Current affairs",
 		"tvh_id": "INTECO.es",
 		"tvh_m3u": true,
-		"tvh_nombre": "IntereconomÃ­a TV",
+		"tvh_nombre": "Intereconomía TV",
 		"tvh_tag": "SD|HOME"
 	},
 	{
